@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d8ca84a-684f-41a4-b105-b70a1aa02a86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/individ11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individ21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individ31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individ41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primerr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primerr2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primerr3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primerr4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primerr5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/individ1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/individ2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/individ4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer5.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4d8ca84a-684f-41a4-b105-b70a1aa02a86" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
